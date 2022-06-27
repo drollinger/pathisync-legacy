@@ -1,0 +1,24 @@
+{
+  "name": "pathisync",
+  "version": "1.0.0",
+  "description": "management for pathify flow interface",
+  "scripts": {
+    "all": "env-cmd -f ./creds/cred.token ts-node src/syncAll.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^8.2.1",
+    "@types/lodash": "^4.14.182",
+    "@types/node-fetch": "^2.6.1",
+    "prettier": "2.6.2",
+    "ts-node": "^10.8.0",
+    "typescript": "^4.7.2"
+  },
+  "dependencies": {
+    "env-cmd": "^10.1.0",
+    "inquirer": "^8.2.4",
+    "lodash": "^4.17.21",
+    "node-fetch": "^2.6.7"
+  }
+}

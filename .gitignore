@@ -1,0 +1,5 @@
+*.swp
+node_modules
+cred.token
+dist/**/*
+.DS_Store
