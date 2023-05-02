@@ -1,3 +1,4 @@
+# LEGACY SYNC HAS BEEN IMPROVED, PLEASE SEE pathisync REPO FOR MORE INFO
 # Pathify Flow Local Integration Sync
 Description: Library of all widget files for pathify along with sync scripts between local dev and pathify production server.
 
